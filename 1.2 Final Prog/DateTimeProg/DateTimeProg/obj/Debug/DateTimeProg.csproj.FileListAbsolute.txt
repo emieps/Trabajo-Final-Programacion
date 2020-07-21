@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\1.2 Final Prog\DateTimeProg\DateTimeProg\bin\Debug\DateTimeProg.exe.config
+C:\Users\user\Desktop\1.2 Final Prog\DateTimeProg\DateTimeProg\bin\Debug\DateTimeProg.exe
+C:\Users\user\Desktop\1.2 Final Prog\DateTimeProg\DateTimeProg\bin\Debug\DateTimeProg.pdb
+C:\Users\user\Desktop\1.2 Final Prog\DateTimeProg\DateTimeProg\obj\Debug\DateTimeProg.csprojAssemblyReference.cache
+C:\Users\user\Desktop\1.2 Final Prog\DateTimeProg\DateTimeProg\obj\Debug\DateTimeProg.exe
+C:\Users\user\Desktop\1.2 Final Prog\DateTimeProg\DateTimeProg\obj\Debug\DateTimeProg.pdb
